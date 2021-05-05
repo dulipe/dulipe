@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Pereira Fonseca Santos</h1>
-<h3 align="center">Estudante entusiasta de programação !</h3>
+<h3 align="center">A passionate Front End developer from Brasil</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
