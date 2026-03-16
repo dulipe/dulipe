@@ -7,8 +7,6 @@ I build modern web applications focused on **performance, clean code and great u
 🌐 **Portfolio:**
 👉 https://filipe-santos.dev
 
----
-
 ## 🚀 About Me
 
 JavaScript developer with experience building solutions for corporate systems and web applications.
@@ -17,39 +15,11 @@ I enjoy solving problems through code and creating **clean, maintainable interfa
 
 Currently focused on improving my skills in **React and full stack development with Node.js**, while expanding my knowledge in software architecture and cloud.
 
----
 
-## 🛠 Tech Stack
+| ## 🛠 Tech Stack                                                                                                                                                             | ## 📚 Currently Learning                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Frontend**<br><br>• JavaScript<br>• React<br>• HTML<br>• CSS<br>• Tailwind<br><br>**Backend**<br><br>• Node.js<br>• REST APIs<br><br>**Tools**<br><br>• Git<br>• GitHub | • TypeScript<br>• Testing (unit and integration)<br>• React Native<br>• Software Architecture<br>• Cloud |
 
-**Frontend**
-
-* JavaScript
-* React
-* HTML
-* CSS
-* Tailwind
-
-**Backend**
-
-* Node.js
-* REST APIs
-
-**Tools**
-
-* Git
-* GitHub
-
----
-
-## 📚 Currently Learning
-
-* TypeScript
-* Testing (unit and integration)
-* React Native
-* Software Architecture
-* Cloud
-
----
 
 
 ## 📫 Contact
@@ -57,6 +27,5 @@ Currently focused on improving my skills in **React and full stack development w
 * **Email:** filipeopc2@gmail.com(mailto:filipeopc2@gmail.com)
 * **LinkedIn:** https://www.linkedin.com/in/filipesantosfullstack
 
----
 
 ⭐ Feel free to explore my repositories and projects.
