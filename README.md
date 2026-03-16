@@ -31,14 +31,14 @@ I build modern web applications focused on **performance, clean code and great u
 ## 📚 Currently Learning
 
 * TypeScript
-* Testing (unit and integration)
+* Testing (Jest / React Testing Library)
 * React Native
 * Software Architecture
 * Cloud
 
 ## 📫 Contact
 
-* **Email:** filipeopc2@gmail.com(mailto:filipeopc2@gmail.com)
+* **Email:** filipeopc2@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/filipesantosfullstack
 
 
