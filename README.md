@@ -28,8 +28,6 @@ I build modern web applications focused on **performance, clean code and great u
 * Git
 * GitHub
 
----
-
 ## 📚 Currently Learning
 
 * TypeScript
@@ -37,7 +35,6 @@ I build modern web applications focused on **performance, clean code and great u
 * React Native
 * Software Architecture
 * Cloud
-
 
 ## 📫 Contact
 
